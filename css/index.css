@@ -1,7 +1,6 @@
-h1 {
+section p {
     color: red;
 }
-
-#chosen {
-    color: green;
+p {
+    font-style: 'Coiny';
 }
